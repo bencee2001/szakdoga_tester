@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-    implementation(files("C:\\Users\\Bence\\Desktop\\Szakdolgozat\\szadoga\\build\\libs\\Simulation-0.0.1-fat.jar"))
+    implementation(files("libs\\Simulation-fat.jar"))
 
     testImplementation(kotlin("test"))
 }
