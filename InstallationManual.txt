@@ -1,0 +1,10 @@
+A program futtatásához szüksége:
+	* gradle 7.4.2 szükséges
+	* a Kotlin verzió 17
+
+Fejlesztéshez IntelliJ Ultimate-t ajánlom.
+
+Program futtatása:
+    * Program mappájában ./gradlew run parancsot kiadva
+    * Main.kt fájlban állítható, melyik teszt fusson
+    * A Data.kt-ban pedig lehet új tesztesettet definiálni
